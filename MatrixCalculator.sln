@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculator", "MatrixCalculator\MatrixCalculator.csproj", "{E1BC6836-80E2-4AE8-A226-08970B58DFBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{929C44FA-0CCD-4CBB-827A-8FAD0D671664}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BC6836-80E2-4AE8-A226-08970B58DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BC6836-80E2-4AE8-A226-08970B58DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BC6836-80E2-4AE8-A226-08970B58DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BC6836-80E2-4AE8-A226-08970B58DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9BB15B-155D-43DA-B4B0-DCEF9C5723DB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\step\C#\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\step\C#\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\step\C#\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+D:\step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
